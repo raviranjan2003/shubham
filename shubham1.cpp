@@ -6,3 +6,4 @@ int main()
     cout<<"Shubham Gandu hai"<<endl;
     return 0;
 }
+//fcking ravi randan
