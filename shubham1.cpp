@@ -7,6 +7,8 @@ int main()
 
     
     cout<<"Show some conflicts"<<endl;
+    
+    cout<<"Merge Pull Request"<<endl;
     return 0;
 }
 //fcking ravi randan
